@@ -1,0 +1,12 @@
+Staff_ID,Name,Department,Salary,Job_Title,Hire_Date,Covid_Vaccine
+501,Ruby,22,35000,Hotel Manager,25/02/2010,Yes
+502,Charlotte,38,32000,Guest Engagement Specialist,17/09/2012,Yes
+503,Charles,24,20000,IT Technician,27/06/2010,Yes
+504,Felix,26,10000,Senior Chef,6/4/2011,Yes
+505,Lily,35,10000,Sales and Marketing,5/12/2011,No
+506,Louis,12,9500,Accountant,24/09/2012,Yes
+507,Ethan,46,8000,Electrician,13/05/2013,No
+508,Celeste,18,7500,Security,1/9/2011,Yes
+509,Sebastin,10,7000,Housekeeping,13/08/2010,Yes
+510,Zara,13,9000,Receptionist,20/03/2010,Yes
+511,Christina,96,20000,Clerk,24/02/2024,Yes

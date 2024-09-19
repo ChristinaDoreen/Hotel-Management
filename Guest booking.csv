@@ -1,0 +1,12 @@
+GID,GPassword,GName,Room_Type,No_Of_Days,Check_In,Check_Out,Room_No,Booking_Source,Net_Payment
+K1,sj_jake_en-,Jake,1_King_bed,27,22/11/2022,19/12/2022,26,Online,189000
+RS2,ashals15,Ashley,Regency_suite_with_1_king_bed,29,20/11/2022,19/12/2022,8,Online,290000
+T3,13_carolinedrt_95,Caroline,2_Twin_bed,27,22/11/2022,19/12/2022,33,Offine,202500
+OS4,rhemals_196,Rhema,Oryx_suite_with_1_king_bed,29,22/11/2022,19/12/2022,59,Offline,435000
+KH5,gracefv_0907,Grace,1_King_bed_high_floor,27,22/11/2022,19/12/2022,13,Offine,216000
+TC6,keziamg_25,Kezia,2_Twin_bed_club_access,27,22/11/2022,19/12/2022,29,Offline,256500
+KC7,trick_138,Tricky,1_King_bed_club_access,19,22/11/2022,10/12/2022,56,Online,171000
+OS8,bmambani_969,Ambani,Oryx_suite_with_1_king_bed,31,20/11/2022,21/12/2022,20,Offline,465000
+K9,bcchad_310,Chad,1_King_bed,1,25/12/2022,25/12/2022,48,Offline,7000
+TH10,phhpablo_263,Pablo,2_Twin_beds_high_floor,60,1/11/2022,31/12/2022,75,Online,510000
+HFK1,ps_guin_en-,Sunghoon,1_King_Bed_High_Floor,17,22/11/2022,9/12/2022,75,Online,136000
